@@ -1,0 +1,16 @@
+This project is related to game-dev && graphic-operation, but I have not done it. :)
+
+Anyway, it's interesting, my final goal is to develop a console landlord game without any graphics library.
+
+There are three main phases:
+	1) draw some normal figures ( e.g. point, line, rectangle ) with ASCII in the console; (80%)
+	2) achieve stand-alone game demo; (0%)
+	3) achieve network interactive game; (0%)
+
+This idea is so cool. :)
+
+
+
+
+
+
